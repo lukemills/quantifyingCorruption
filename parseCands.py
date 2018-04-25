@@ -1,6 +1,6 @@
 import sys, csv, re
 
-def getFirstLast(nc1):
+def getCandFirstLast(nc1):
 	strs = nc1.split()
 
 	# ns is numstrs
@@ -71,14 +71,6 @@ def getFirstLast(nc1):
 			firstLast += strs[i]
 
 	return firstLast
-'''
-	elif(ns == 3):
-		firstLast = strs[0] + " " + strs[2]
-	elif(ns == 4):
-		firstLast = strs[0] + " " + strs[3]
-'''
-	
-		
 		
 	
 
