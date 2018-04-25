@@ -1,0 +1,101 @@
+person,state,district,vote,name,party
+300001,HI,,Not Voting,"Sen. Daniel Akaka [D, 1990-2012]",Democrat
+300003,CO,,Yea,"Sen. Wayne Allard [R, 1997-2008]",Republican
+300004,VA,,Nay,"Sen. George Allen [R, 2001-2006]",Republican
+300005,MT,,Yea,"Sen. Max Baucus [D, 1978-2014]",Democrat
+300006,IN,,Yea,"Sen. Evan Bayh [D, 1999-2010]",Democrat
+300007,UT,,Yea,"Sen. Robert Bennett [R, 1993-2010]",Republican
+300008,DE,,Yea,"Sen. Joseph Biden Jr. [D, 1973-2009]",Democrat
+300009,NM,,Yea,"Sen. Jeff Bingaman [D, 1983-2012]",Democrat
+300010,MO,,Nay,"Sen. Christopher “Kit” Bond [R, 1987-2010]",Republican
+300011,CA,,Yea,"Sen. Barbara Boxer [D, 1993-2016]",Democrat
+300012,LA,,Nay,"Sen. John Breaux [D, 1987-2004]",Democrat
+300013,KS,,Yea,"Sen. Samuel “Sam” Brownback [R, 1996-2010]",Republican
+300014,KY,,Yea,"Sen. Jim Bunning [R, 1999-2010]",Republican
+300015,MT,,Yea,"Sen. Conrad Burns [R, 1989-2006]",Republican
+300016,WV,,Yea,"Sen. Robert Byrd [D, 1959-2010]",Democrat
+300017,CO,,Yea,"Sen. Ben Campbell [R, 1993-2004]",Republican
+300018,WA,,Yea,"Sen. Maria Cantwell [D, 2001-2018]",Democrat
+300019,DE,,Yea,"Sen. Thomas Carper [D, 2001-2018]",Democrat
+300020,RI,,Yea,"Sen. Lincoln Chafee [R, 1999-2006]",Republican
+300022,NY,,Yea,"Sen. Hillary Clinton [D, 2001-2009]",Democrat
+300023,MS,,Yea,"Sen. Thad Cochran [R, 1979-2018]",Republican
+300025,ME,,Yea,"Sen. Susan Collins [R, 1997-2020]",Republican
+300026,ND,,Yea,"Sen. Kent Conrad [D, 1992-2012]",Democrat
+300028,NJ,,Yea,"Sen. Jon Corzine [D, 2001-2006]",Democrat
+300029,ID,,Yea,"Sen. Larry Craig [R, 1991-2008]",Republican
+300030,ID,,Yea,"Sen. Michael Crapo [R, 1999-2022]",Republican
+300031,SD,,Yea,"Sen. Thomas “Tom” Daschle [D, 1987-2004]",Democrat
+300032,MN,,Yea,"Sen. Mark Dayton [D, 2001-2006]",Democrat
+300033,OH,,Yea,"Sen. Michael “Mike” DeWine [R, 1995-2006]",Republican
+300034,CT,,Yea,"Sen. Christopher Dodd [D, 1981-2010]",Democrat
+300036,NM,,Yea,"Sen. Pete Domenici [R, 1973-2008]",Republican
+300037,ND,,Yea,"Sen. Byron Dorgan [D, 1992-2010]",Democrat
+300038,IL,,Yea,"Sen. Richard Durbin [D, 1997-2020]",Democrat
+300039,NC,,Yea,"Sen. John Edwards [D, 1999-2004]",Democrat
+300040,NV,,Yea,"Sen. John Ensign [R, 2001-2011]",Republican
+300041,WY,,Yea,"Sen. Michael Enzi [R, 1997-2020]",Republican
+300042,WI,,Yea,"Sen. Russell Feingold [D, 1993-2010]",Democrat
+300043,CA,,Yea,"Sen. Dianne Feinstein [D, 1992-2018]",Democrat
+300044,IL,,Yea,"Sen. Peter Fitzgerald [R, 1999-2004]",Republican
+300045,TN,,Yea,"Sen. William “Bill” Frist [R, 1995-2006]",Republican
+300046,FL,,Yea,"Sen. Bob Graham [D, 1987-2004]",Democrat
+300048,IA,,Yea,"Sen. Charles “Chuck” Grassley [R, 1981-2022]",Republican
+300049,NH,,Nay,"Sen. Judd Gregg [R, 1993-2010]",Republican
+300050,NE,,Yea,"Sen. Charles “Chuck” Hagel [R, 1997-2008]",Republican
+300051,IA,,Yea,"Sen. Thomas “Tom” Harkin [D, 1985-2014]",Democrat
+300052,UT,,Yea,"Sen. Orrin Hatch [R, 1977-2018]",Republican
+300053,SC,,Yea,"Sen. Ernest “Fritz” Hollings [D, 1966-2004]",Democrat
+300054,TX,,Yea,"Sen. Kay Hutchison [R, 1993-2012]",Republican
+300055,OK,,Nay,"Sen. James “Jim” Inhofe [R, 1994-2020]",Republican
+300056,HI,,Yea,"Sen. Daniel Inouye [D, 1963-2012]",Democrat
+300057,VT,,Yea,"Sen. James “Jim” Jeffords [I, 1989-2006]",Independent
+300058,SD,,Yea,"Sen. Tim Johnson [D, 1997-2014]",Democrat
+300059,MA,,Yea,"Sen. Edward “Ted” Kennedy [D, 1962-2009]",Democrat
+300060,MA,,Yea,"Sen. John Kerry [D, 1985-2013]",Democrat
+300061,WI,,Yea,"Sen. Herbert “Herb” Kohl [D, 1989-2012]",Democrat
+300062,AZ,,Yea,"Sen. Jon Kyl [R, 1995-2012]",Republican
+300063,LA,,Yea,"Sen. Mary Landrieu [D, 1997-2014]",Democrat
+300065,VT,,Yea,"Sen. Patrick Leahy [D, 1975-2022]",Democrat
+300066,MI,,Yea,"Sen. Carl Levin [D, 1979-2014]",Democrat
+300067,CT,,Not Voting,"Sen. Joseph Lieberman [D, 1989-2012]",Democrat
+300068,AR,,Yea,"Sen. Blanche Lincoln [D, 1999-2010]",Democrat
+300069,MS,,Yea,"Sen. Trent Lott [R, 1989-2007]",Republican
+300070,IN,,Yea,"Sen. Richard Lugar [R, 1977-2012]",Republican
+300071,AZ,,Nay,"Sen. John McCain [R, 1987-2022]",Republican
+300072,KY,,Yea,"Sen. Mitch McConnell [R, 1985-2020]",Republican
+300073,MD,,Yea,"Sen. Barbara Mikulski [D, 1987-2016]",Democrat
+300074,GA,,Not Voting,"Sen. Zell Miller [D, 2000-2004]",Democrat
+300076,WA,,Yea,"Sen. Patty Murray [D, 1993-2022]",Democrat
+300077,NE,,Yea,"Sen. Ben Nelson [D, 2001-2012]",Democrat
+300078,FL,,Yea,"Sen. Bill Nelson [D, 2001-2018]",Democrat
+300079,OK,,Yea,"Sen. Don Nickles [R, 1981-2004]",Republican
+300081,RI,,Yea,"Sen. John “Jack” Reed [D, 1997-2020]",Democrat
+300082,NV,,Yea,"Sen. Harry Reid [D, 1987-2016]",Democrat
+300083,KS,,Yea,"Sen. Pat Roberts [R, 1997-2020]",Republican
+300084,WV,,Yea,"Sen. John “Jay” Rockefeller IV [D, 1985-2014]",Democrat
+300085,PA,,Yea,"Sen. Richard “Rick” Santorum [R, 1995-2006]",Republican
+300086,MD,,Yea,"Sen. Paul Sarbanes [D, 1977-2006]",Democrat
+300087,NY,,Yea,"Sen. Charles “Chuck” Schumer [D, 1999-2022]",Democrat
+300088,AL,,Not Voting,"Sen. Jefferson “Jeff” Sessions [R, 1997-2017]",Republican
+300089,AL,,Not Voting,"Sen. Richard Shelby [R, 1987-2022]",Republican
+300090,OR,,Yea,"Sen. Gordon Smith [R, 1997-2008]",Republican
+300091,ME,,Yea,"Sen. Olympia Snowe [R, 1995-2012]",Republican
+300092,PA,,Yea,"Sen. Arlen Specter [R, 1981-2010]",Republican
+300093,MI,,Yea,"Sen. Debbie Stabenow [D, 2001-2018]",Democrat
+300094,AK,,Yea,"Sen. Ted Stevens [R, 1968-2008]",Republican
+300097,WY,,Yea,"Sen. Craig Thomas [R, 1995-2007]",Republican
+300098,OH,,Yea,"Sen. George Voinovich [R, 1999-2010]",Republican
+300099,VA,,Yea,"Sen. John Warner [R, 1979-2008]",Republican
+300100,OR,,Yea,"Sen. Ron Wyden [D, 1996-2022]",Democrat
+300150,AK,,Not Voting,"Sen. Frank Murkowski [R, 1981-2002]",Republican
+300151,AR,,Yea,"Sen. Tim Hutchinson [R, 1997-2002]",Republican
+300152,GA,,Yea,"Sen. Maxwell Cleland [D, 1997-2002]",Democrat
+300153,MO,,Yea,"Sen. Jean Carnahan [D, 2001-2002]",Democrat
+300154,NC,,Yea,"Sen. Jesse Helms [R, 1973-2002]",Republican
+300155,NH,,Yea,"Sen. Robert “Bob” Smith [R, 1990-2002]",Republican
+300156,NJ,,Yea,"Sen. Robert Torricelli [D, 1997-2002]",Democrat
+300157,SC,,Yea,"Sen. Strom Thurmond [R, 1956-2002]",Republican
+300158,TN,,Yea,"Sen. Fred Thompson [R, 1994-2002]",Republican
+300159,TX,,Yea,"Sen. Phil Gramm [R, 1985-2002]",Republican
+400566,MN,,Yea,"Sen. Paul Wellstone [D, 1991-2002]",Democrat
