@@ -97,3 +97,8 @@ for row in reader:
 			CID = row2['CID']
 			print(nn, row['person'], CID, sep=",")
 			break
+	if(CID == -1):
+		print(nn, row['person'], CID, sep=",")
+		
+	
+			
