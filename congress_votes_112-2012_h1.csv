@@ -1,0 +1,436 @@
+House Vote #1 2012-01-17T18:53:00 - Call of the House
+person,state,district,vote,name,party
+400003,NY,5,Present,"Rep. Gary Ackerman [D, 1993-2012]",Democrat
+400004,AL,4,Present,"Rep. Robert Aderholt [R, 1997-2018]",Republican
+400005,MO,2,Present,"Rep. Todd Akin [R, 2001-2012]",Republican
+400006,LA,5,Present,"Rep. Rodney Alexander [R, 2003-2013]",Republican
+400008,NJ,1,Present,"Rep. Robert “Rob” Andrews [D, 1990-2014]",Democrat
+400009,CA,43,Present,"Rep. Joe Baca [D, 2003-2012]",Democrat
+400010,AL,6,Present,"Rep. Spencer Bachus III [R, 1993-2014]",Republican
+400013,WI,2,Present,"Rep. Tammy Baldwin [D, 1999-2012]",Democrat
+400017,MD,6,Present,"Rep. Roscoe Bartlett [R, 1993-2012]",Republican
+400018,TX,6,Present,"Rep. Joe Barton [R, 1985-2018]",Republican
+400019,NH,2,Present,"Rep. Charles “Charlie” Bass [R, 2011-2012]",Republican
+400021,CA,31,Present,"Rep. Xavier Becerra [D, 2003-2012]",Democrat
+400024,NV,1,Not Voting,"Rep. Shelley Berkley [D, 1999-2012]",Democrat
+400025,CA,28,Not Voting,"Rep. Howard Berman [D, 2003-2012]",Democrat
+400027,IL,13,Present,"Rep. Judy Biggert [R, 1999-2012]",Republican
+400029,UT,1,Not Voting,"Rep. Rob Bishop [R, 2003-2018]",Republican
+400030,GA,2,Not Voting,"Rep. Sanford Bishop Jr. [D, 1993-2018]",Democrat
+400031,NY,1,Present,"Rep. Timothy Bishop [D, 2003-2014]",Democrat
+400032,TN,7,Present,"Rep. Marsha Blackburn [R, 2003-2018]",Republican
+400033,OR,3,Present,"Rep. Earl Blumenauer [D, 1996-2018]",Democrat
+400036,OH,8,Present,"Rep. John Boehner [R, 1991-2015]",Republican
+400038,AL,1,Present,"Rep. Jo Bonner [R, 2003-2013]",Republican
+400039,CA,45,Present,"Rep. Mary Bono Mack [R, 2003-2012]",Republican
+400042,IA,3,Present,"Rep. Leonard Boswell [D, 1997-2012]",Democrat
+400046,TX,8,Present,"Rep. Kevin Brady [R, 1997-2018]",Republican
+400047,PA,1,Present,"Rep. Robert Brady [D, 1998-2018]",Democrat
+400048,FL,3,Present,"Rep. Corrine Brown [D, 1993-2012]",Democrat
+400052,TX,26,Present,"Rep. Michael Burgess [R, 2003-2018]",Republican
+400055,IN,5,Present,"Rep. Dan Burton [R, 2003-2012]",Republican
+400057,CA,44,Present,"Rep. Ken Calvert [R, 2003-2012]",Republican
+400058,MI,4,Present,"Rep. Dave Camp [R, 1993-2014]",Republican
+400060,VA,7,Present,"Rep. Eric Cantor [R, 2001-2014]",Republican
+400061,WV,2,Present,"Rep. Shelley Capito [R, 2001-2014]",Republican
+400062,CA,23,Present,"Rep. Lois Capps [D, 2003-2012]",Democrat
+400063,MA,8,Present,"Rep. Michael Capuano [D, 1999-2012]",Democrat
+400065,CA,18,Not Voting,"Rep. Dennis Cardoza [D, 2003-2012]",Democrat
+400068,TX,31,Not Voting,"Rep. John Carter [R, 2003-2018]",Republican
+400071,OH,1,Present,"Rep. Steve Chabot [R, 2011-2018]",Republican
+400074,MO,1,Not Voting,"Rep. Lacy Clay Jr. [D, 2001-2018]",Democrat
+400075,SC,6,Present,"Rep. James “Jim” Clyburn [D, 1993-2018]",Democrat
+400076,NC,6,Present,"Rep. Howard Coble [R, 1985-2014]",Republican
+400077,OK,4,Present,"Rep. Tom Cole [R, 2003-2018]",Republican
+400080,MI,14,Present,"Rep. John Conyers Jr. [D, 1993-2012]",Democrat
+400081,TN,5,Present,"Rep. Jim Cooper [D, 2003-2018]",Democrat
+400082,IL,12,Not Voting,"Rep. Jerry Costello [D, 1993-2012]",Democrat
+400086,FL,4,Present,"Rep. Ander Crenshaw [R, 2001-2016]",Republican
+400087,NY,7,Present,"Rep. Joseph “Joe” Crowley [D, 1999-2012]",Democrat
+400089,TX,7,Not Voting,"Rep. John Culberson [R, 2001-2018]",Republican
+400090,MD,7,Present,"Rep. Elijah Cummings [D, 1996-2018]",Democrat
+400093,IL,7,Present,"Rep. Danny Davis [D, 1997-2018]",Democrat
+400097,CA,53,Present,"Rep. Susan Davis [D, 2003-2018]",Democrat
+400100,OR,4,Present,"Rep. Peter DeFazio [D, 1987-2018]",Democrat
+400101,CO,1,Present,"Rep. Diana DeGette [D, 1997-2018]",Democrat
+400103,CT,3,Present,"Rep. Rosa DeLauro [D, 1991-2018]",Democrat
+400108,FL,21,Present,"Rep. Mario Diaz-Balart [R, 2011-2012]",Republican
+400109,WA,6,Present,"Rep. Norman “Norm” Dicks [D, 1977-2012]",Democrat
+400110,MI,15,Present,"Rep. John Dingell [D, 2003-2012]",Democrat
+400111,TX,25,Present,"Rep. Lloyd Doggett [D, 2005-2012]",Democrat
+400114,PA,14,Present,"Rep. Michael “Mike” Doyle Jr. [D, 2003-2018]",Democrat
+400115,CA,26,Present,"Rep. David Dreier [R, 2003-2012]",Republican
+400116,TN,2,Present,"Rep. John “Jimmy” Duncan Jr. [R, 1988-2018]",Republican
+400121,MO,8,Present,"Rep. Jo Ann Emerson [R, 1997-2013]",Republican
+400122,NY,17,Present,"Rep. Eliot Engel [D, 1993-2012]",Democrat
+400124,CA,14,Not Voting,"Rep. Anna Eshoo [D, 1993-2012]",Democrat
+400129,CA,17,Not Voting,"Rep. Sam Farr [D, 1993-2012]",Democrat
+400130,PA,2,Present,"Rep. Chaka Fattah [D, 1995-2016]",Democrat
+400133,CA,51,Present,"Rep. Bob Filner [D, 2003-2012]",Democrat
+400134,AZ,6,Present,"Rep. Jeff Flake [R, 2003-2012]",Republican
+400137,VA,4,Present,"Rep. Randy Forbes [R, 2001-2016]",Republican
+400140,MA,4,Not Voting,"Rep. Barney Frank [D, 1981-2012]",Democrat
+400141,AZ,2,Not Voting,"Rep. Trent Franks [R, 2003-2012]",Republican
+400142,NJ,11,Present,"Rep. Rodney Frelinghuysen [R, 1995-2018]",Republican
+400144,CA,24,Present,"Rep. Elton Gallegly [R, 2003-2012]",Republican
+400145,NJ,5,Present,"Rep. Scott Garrett [R, 2003-2016]",Republican
+400147,PA,6,Present,"Rep. Jim Gerlach [R, 2003-2014]",Republican
+400151,GA,11,Not Voting,"Rep. Phil Gingrey [R, 2003-2014]",Republican
+400152,TX,20,Present,"Rep. Charles “Charlie” Gonzalez [D, 1999-2012]",Democrat
+400154,VA,6,Present,"Rep. Bob Goodlatte [R, 1993-2018]",Republican
+400157,TX,12,Present,"Rep. Kay Granger [R, 1997-2018]",Republican
+400158,MO,6,Present,"Rep. Sam Graves [R, 2001-2018]",Republican
+400160,TX,29,Present,"Rep. Gene Green [D, 1993-2018]",Democrat
+400162,AZ,7,Not Voting,"Rep. Raúl Grijalva [D, 2003-2012]",Democrat
+400163,IL,4,Present,"Rep. Luis Gutiérrez [D, 1993-2018]",Democrat
+400165,TX,4,Present,"Rep. Ralph Hall [R, 1981-2014]",Republican
+400170,FL,23,Present,"Rep. Alcee Hastings [D, 1993-2012]",Democrat
+400171,WA,4,Present,"Rep. Doc Hastings [R, 1995-2014]",Republican
+400175,TX,5,Present,"Rep. Jeb Hensarling [R, 2003-2018]",Republican
+400176,CA,2,Present,"Rep. Walter “Wally” Herger [R, 1987-2012]",Republican
+400178,NY,22,Not Voting,"Rep. Maurice Hinchey [D, 2003-2012]",Democrat
+400179,TX,15,Present,"Rep. Rubén Hinojosa [D, 1997-2016]",Democrat
+400183,PA,17,Present,"Rep. Tim Holden [D, 2003-2012]",Democrat
+400184,NJ,12,Present,"Rep. Rush Holt [D, 1999-2014]",Democrat
+400185,CA,15,Not Voting,"Rep. Michael “Mike” Honda [D, 2001-2012]",Democrat
+400189,MD,5,Present,"Rep. Steny Hoyer [D, 1981-2018]",Democrat
+400193,WA,1,Not Voting,"Rep. Jay Inslee [D, 1999-2012]",Democrat
+400195,NY,2,Present,"Rep. Steve Israel [D, 2001-2012]",Democrat
+400196,CA,49,Present,"Rep. Darrell Issa [R, 2003-2018]",Republican
+400198,IL,2,Present,"Rep. Jesse Jackson Jr. [D, 1995-2012]",Democrat
+400199,TX,18,Present,"Rep. Sheila Jackson Lee [D, 1995-2018]",Democrat
+400204,TX,30,Not Voting,"Rep. Eddie Johnson [D, 1993-2018]",Democrat
+400206,TX,3,Present,"Rep. Sam Johnson [R, 1991-2018]",Republican
+400207,IL,15,Present,"Rep. Timothy Johnson [R, 2001-2012]",Republican
+400209,NC,3,Present,"Rep. Walter Jones Jr. [R, 1995-2018]",Republican
+400211,OH,9,Present,"Rep. Marcy Kaptur [D, 1983-2018]",Democrat
+400216,MI,5,Present,"Rep. Dale Kildee [D, 2003-2012]",Democrat
+400218,WI,3,Not Voting,"Rep. Ron Kind [D, 1997-2018]",Democrat
+400219,NY,3,Present,"Rep. Peter “Pete” King [R, 1993-2012]",Republican
+400220,IA,5,Present,"Rep. Steve King [R, 2003-2012]",Republican
+400221,GA,1,Present,"Rep. Jack Kingston [R, 1993-2014]",Republican
+400224,MN,2,Present,"Rep. John Kline [R, 2003-2016]",Republican
+400227,OH,10,Present,"Rep. Dennis Kucinich [D, 1997-2012]",Democrat
+400230,RI,2,Present,"Rep. James “Jim” Langevin [D, 2001-2018]",Democrat
+400232,WA,2,Present,"Rep. Rick Larsen [D, 2001-2018]",Democrat
+400233,CT,1,Present,"Rep. John Larson [D, 1999-2018]",Democrat
+400234,IA,4,Present,"Rep. Tom Latham [R, 2003-2012]",Republican
+400235,OH,14,Present,"Rep. Steven LaTourette [R, 2003-2012]",Republican
+400237,CA,9,Present,"Rep. Barbara Lee [D, 1998-2012]",Democrat
+400238,MI,12,Present,"Rep. Sander Levin [D, 1993-2012]",Democrat
+400239,CA,41,Present,"Rep. Jerry Lewis [R, 2003-2012]",Republican
+400240,GA,5,Present,"Rep. John Lewis [D, 1987-2018]",Democrat
+400244,NJ,2,Present,"Rep. Frank LoBiondo [R, 1995-2018]",Republican
+400245,CA,16,Not Voting,"Rep. Zoe Lofgren [D, 1995-2012]",Democrat
+400246,NY,18,Present,"Rep. Nita Lowey [D, 1993-2012]",Democrat
+400247,OK,3,Present,"Rep. Frank Lucas [R, 2003-2018]",Republican
+400249,MA,9,Not Voting,"Rep. Stephen Lynch [D, 2001-2012]",Democrat
+400251,NY,14,Present,"Rep. Carolyn Maloney [D, 1993-2012]",Democrat
+400252,IL,16,Present,"Rep. Donald Manzullo [R, 1993-2012]",Republican
+400253,MA,7,Present,"Rep. Edward “Ed” Markey [D, 1975-2012]",Democrat
+400255,UT,2,Present,"Rep. Jim Matheson [D, 2001-2012]",Democrat
+400257,NY,4,Present,"Rep. Carolyn McCarthy [D, 1997-2014]",Democrat
+400259,MN,4,Present,"Rep. Betty McCollum [D, 2001-2018]",Democrat
+400260,MI,11,Present,"Rep. Thaddeus “Thad” McCotter [R, 2003-2012]",Republican
+400262,WA,7,Present,"Rep. Jim McDermott [D, 1989-2016]",Democrat
+400263,MA,3,Present,"Rep. James “Jim” McGovern [D, 1997-2012]",Democrat
+400266,NC,7,Present,"Rep. Mike McIntyre [D, 1997-2014]",Democrat
+400267,CA,25,Present,"Rep. Howard “Buck” McKeon [R, 1993-2014]",Republican
+400271,NY,6,Present,"Rep. Gregory Meeks [D, 1997-2012]",Democrat
+400273,FL,7,Present,"Rep. John Mica [R, 1993-2016]",Republican
+400274,ME,2,Present,"Rep. Michael Michaud [D, 2003-2014]",Democrat
+400276,MI,10,Present,"Rep. Candice Miller [R, 2003-2016]",Republican
+400277,CA,42,Present,"Rep. Gary Miller [R, 2003-2012]",Republican
+400278,CA,7,Present,"Rep. George Miller [D, 1975-2012]",Democrat
+400279,FL,1,Present,"Rep. Jeff Miller [R, 2001-2016]",Republican
+400280,NC,13,Present,"Rep. Bradley “Brad” Miller [D, 2003-2012]",Democrat
+400283,VA,8,Not Voting,"Rep. James “Jim” Moran Jr. [D, 1991-2014]",Democrat
+400285,PA,18,Present,"Rep. Tim Murphy [R, 2003-2017]",Republican
+400288,NC,9,Present,"Rep. Sue Myrick [R, 1995-2012]",Republican
+400289,NY,8,Present,"Rep. Jerrold Nadler [D, 1993-2012]",Democrat
+400290,CA,38,Not Voting,"Rep. Grace Napolitano [D, 2003-2012]",Democrat
+400291,MA,2,Present,"Rep. Richard Neal [D, 1989-2012]",Democrat
+400297,CA,21,Present,"Rep. Devin Nunes [R, 2003-2012]",Republican
+400301,MA,1,Present,"Rep. John Olver [D, 1991-2012]",Democrat
+400308,NJ,6,Present,"Rep. Frank Pallone Jr. [D, 1993-2018]",Democrat
+400309,NJ,8,Present,"Rep. Bill Pascrell Jr. [D, 1997-2012]",Democrat
+400310,AZ,4,Present,"Rep. Ed Pastor [D, 2003-2012]",Democrat
+400311,TX,14,Not Voting,"Rep. Ronald “Ron” Paul [R, 1997-2012]",Republican
+400312,NJ,10,Present,"Rep. Donald Payne [D, 1989-2012]",Democrat
+400313,NM,2,Present,"Rep. Stevan “Steve” Pearce [R, 2011-2018]",Republican
+400314,CA,8,Present,"Rep. Nancy Pelosi [D, 1993-2012]",Democrat
+400315,IN,6,Present,"Rep. Mike Pence [R, 2003-2012]",Republican
+400316,MN,7,Not Voting,"Rep. Collin Peterson [D, 1991-2018]",Democrat
+400318,WI,6,Present,"Rep. Thomas “Tom” Petri [R, 1979-2014]",Republican
+400320,PA,16,Present,"Rep. Joseph Pitts [R, 1997-2016]",Republican
+400321,PA,19,Present,"Rep. Todd Platts [R, 2001-2012]",Republican
+400326,NC,4,Present,"Rep. David Price [D, 1997-2018]",Democrat
+400331,WV,3,Present,"Rep. Nick Rahall II [D, 1993-2014]",Democrat
+400333,NY,15,Present,"Rep. Charles “Charlie” Rangel [D, 1993-2012]",Democrat
+400335,MT,0,Present,"Rep. Dennis “Denny” Rehberg [R, 2001-2012]",Republican
+400337,TX,16,Not Voting,"Rep. Silvestre Reyes [D, 1997-2012]",Democrat
+400340,KY,5,Present,"Rep. Harold “Hal” Rogers [R, 1981-2018]",Republican
+400341,AL,3,Present,"Rep. Mike Rogers [R, 2003-2018]",Republican
+400342,MI,8,Present,"Rep. Mike Rogers [R, 2001-2014]",Republican
+400343,CA,46,Not Voting,"Rep. Dana Rohrabacher [R, 2003-2012]",Republican
+400344,FL,18,Present,"Rep. Ileana Ros-Lehtinen [R, 1989-2012]",Republican
+400345,AR,4,Present,"Rep. Mike Ross [D, 2001-2012]",Democrat
+400346,NJ,9,Present,"Rep. Steven Rothman [D, 1997-2012]",Democrat
+400347,CA,34,Not Voting,"Rep. Lucille Roybal-Allard [D, 2003-2012]",Democrat
+400348,CA,40,Present,"Rep. Edward “Ed” Royce [R, 2003-2012]",Republican
+400349,MD,2,Present,"Rep. A. Dutch Ruppersberger [D, 2003-2018]",Democrat
+400350,IL,1,Present,"Rep. Bobby Rush [D, 1993-2018]",Democrat
+400351,WI,1,Present,"Rep. Paul Ryan [R, 1999-2018]",Republican
+400352,OH,17,Present,"Rep. Tim Ryan [D, 2003-2012]",Democrat
+400355,CA,39,Present,"Rep. Linda Sánchez [D, 2003-2012]",Democrat
+400356,CA,47,Present,"Rep. Loretta Sanchez [D, 2003-2012]",Democrat
+400360,IL,9,Present,"Rep. Janice “Jan” Schakowsky [D, 1999-2018]",Democrat
+400361,CA,29,Present,"Rep. Adam Schiff [D, 2003-2012]",Democrat
+400363,GA,13,Present,"Rep. David Scott [D, 2003-2018]",Democrat
+400364,VA,3,Present,"Rep. Robert “Bobby” Scott [D, 1993-2018]",Democrat
+400365,WI,5,Present,"Rep. James Sensenbrenner Jr. [R, 2003-2018]",Republican
+400366,NY,16,Present,"Rep. José Serrano [D, 1993-2012]",Democrat
+400367,TX,32,Present,"Rep. Pete Sessions [R, 2003-2018]",Republican
+400371,CA,27,Present,"Rep. Brad Sherman [D, 2003-2012]",Democrat
+400373,IL,19,Present,"Rep. John Shimkus [R, 2003-2012]",Republican
+400376,ID,2,Not Voting,"Rep. Michael “Mike” Simpson [R, 1999-2018]",Republican
+400378,NY,28,Not Voting,"Rep. Louise Slaughter [D, 1993-2012]",Democrat
+400379,WA,9,Present,"Rep. Adam Smith [D, 1997-2018]",Democrat
+400380,NJ,4,Not Voting,"Rep. Christopher “Chris” Smith [R, 1981-2018]",Republican
+400381,TX,21,Present,"Rep. Lamar Smith [R, 1987-2018]",Republican
+400387,CA,13,Not Voting,"Rep. Fortney “Pete” Stark [D, 1993-2012]",Democrat
+400388,FL,6,Present,"Rep. Clifford “Cliff” Stearns [R, 1989-2012]",Republican
+400392,OK,1,Present,"Rep. John Sullivan [R, 2002-2012]",Republican
+400400,NE,2,Present,"Rep. Lee Terry [R, 1999-2014]",Republican
+400402,MS,2,Present,"Rep. Bennie Thompson [D, 1993-2018]",Democrat
+400403,CA,1,Present,"Rep. Mike Thompson [D, 1999-2012]",Democrat
+400404,TX,13,Present,"Rep. Mac Thornberry [R, 1995-2018]",Republican
+400406,OH,12,Present,"Rep. Patrick “Pat” Tiberi [R, 2001-2018]",Republican
+400407,MA,6,Not Voting,"Rep. John Tierney [D, 1997-2014]",Democrat
+400409,NY,10,Present,"Rep. Edolphus “Ed” Towns [D, 1993-2012]",Democrat
+400411,OH,3,Present,"Rep. Michael Turner [R, 2003-2012]",Republican
+400414,MI,6,Present,"Rep. Fred Upton [R, 1993-2018]",Republican
+400415,MD,8,Present,"Rep. Chris Van Hollen Jr. [D, 2003-2016]",Democrat
+400416,NY,12,Present,"Rep. Nydia Velázquez [D, 1993-2012]",Democrat
+400417,IN,1,Present,"Rep. Peter Visclosky [D, 1985-2018]",Democrat
+400419,OR,2,Present,"Rep. Greg Walden [R, 1999-2018]",Republican
+400422,CA,35,Not Voting,"Rep. Maxine Waters [D, 1993-2012]",Democrat
+400424,NC,12,Present,"Rep. Melvin “Mel” Watt [D, 1993-2014]",Democrat
+400425,CA,30,Present,"Rep. Henry Waxman [D, 2003-2012]",Democrat
+400431,KY,1,Present,"Rep. Ed Whitfield [R, 1995-2016]",Republican
+400433,SC,2,Present,"Rep. Joe Wilson [R, 2001-2018]",Republican
+400435,VA,10,Present,"Rep. Frank Wolf [R, 1981-2014]",Republican
+400436,CA,6,Present,"Rep. Lynn Woolsey [D, 1993-2012]",Democrat
+400439,FL,10,Present,"Rep. W. Bill Young [R, 1993-2012]",Republican
+400440,AK,0,Present,"Rep. Don Young [R, 1973-2018]",Republican
+400441,TX,19,Present,"Rep. Randy Neugebauer [R, 2003-2016]",Republican
+400442,KY,6,Present,"Rep. Ben Chandler [D, 2004-2012]",Democrat
+400570,CA,50,Present,"Rep. Brian Bilbray [R, 2006-2012]",Republican
+400616,NC,1,Not Voting,"Rep. George “G.K.” Butterfield Jr. [D, 2004-2018]",Democrat
+400617,CA,3,Present,"Rep. Daniel Lungren [R, 2005-2012]",Republican
+400618,CA,20,Present,"Rep. Jim Costa [D, 2005-2012]",Democrat
+400622,FL,14,Present,"Rep. Connie Mack IV [R, 2005-2012]",Republican
+400623,FL,20,Present,"Rep. Debbie Wasserman Schultz [D, 2005-2012]",Democrat
+400626,GA,6,Present,"Rep. Tom Price [R, 2005-2017]",Republican
+400627,GA,3,Not Voting,"Rep. Lynn Westmoreland [R, 2007-2016]",Republican
+400628,GA,12,Present,"Rep. John Barrow [D, 2005-2014]",Democrat
+400630,IL,3,Not Voting,"Rep. Daniel Lipinski [D, 2005-2018]",Democrat
+400633,KY,4,Present,"Rep. Geoff Davis [R, 2005-2012]",Republican
+400636,LA,7,Present,"Rep. Charles Boustany Jr. [R, 2005-2012]",Republican
+400638,MO,3,Present,"Rep. Russ Carnahan [D, 2005-2012]",Democrat
+400639,MO,5,Present,"Rep. Emanuel Cleaver II [D, 2005-2018]",Democrat
+400640,NE,1,Present,"Rep. Jeff Fortenberry [R, 2005-2018]",Republican
+400641,NY,27,Present,"Rep. Brian Higgins [D, 2005-2012]",Democrat
+400643,NC,5,Present,"Rep. Virginia Foxx [R, 2005-2018]",Republican
+400644,NC,10,Present,"Rep. Patrick McHenry [R, 2005-2018]",Republican
+400645,OK,2,Present,"Rep. Dan Boren [D, 2005-2012]",Democrat
+400646,PA,8,Present,"Rep. Michael Fitzpatrick [R, 2011-2016]",Republican
+400647,PA,13,Present,"Rep. Allyson Schwartz [D, 2005-2014]",Democrat
+400648,PA,15,Present,"Rep. Charles Dent [R, 2005-2018]",Republican
+400651,TX,1,Not Voting,"Rep. Louie Gohmert Jr. [R, 2005-2018]",Republican
+400652,TX,2,Present,"Rep. Ted Poe [R, 2005-2018]",Republican
+400653,TX,9,Present,"Rep. Al Green [D, 2005-2018]",Democrat
+400654,TX,10,Not Voting,"Rep. Michael McCaul [R, 2005-2018]",Republican
+400655,TX,11,Present,"Rep. Michael Conaway [R, 2005-2018]",Republican
+400656,TX,24,Present,"Rep. Kenny Marchant [R, 2005-2018]",Republican
+400657,TX,28,Present,"Rep. Henry Cuellar [D, 2005-2018]",Democrat
+400659,WA,5,Present,"Rep. Cathy McMorris Rodgers [R, 2005-2018]",Republican
+400660,WA,8,Present,"Rep. David Reichert [R, 2005-2018]",Republican
+400661,WI,4,Present,"Rep. Gwen Moore [D, 2005-2018]",Democrat
+400663,CA,5,Present,"Rep. Doris Matsui [D, 2005-2012]",Democrat
+409888,PA,9,Present,"Rep. Bill Shuster [R, 2001-2018]",Republican
+412010,OH,2,Present,"Rep. Jean Schmidt [R, 2005-2012]",Republican
+412011,CA,48,Not Voting,"Rep. John Campbell III [R, 2005-2012]",Republican
+412186,NJ,13,Present,"Rep. Albio Sires [D, 2006-2012]",Democrat
+412188,AZ,8,Not Voting,"Rep. Gabrielle Giffords [D, 2007-2012]",Democrat
+412189,CA,11,Present,"Rep. Jerry McNerney [D, 2007-2012]",Democrat
+412190,CA,22,Present,"Rep. Kevin McCarthy [R, 2007-2012]",Republican
+412191,CO,5,Present,"Rep. Doug Lamborn [R, 2007-2018]",Republican
+412192,CO,7,Present,"Rep. Ed Perlmutter [D, 2007-2018]",Democrat
+412193,CT,2,Present,"Rep. Joe Courtney [D, 2007-2018]",Democrat
+412194,CT,5,Present,"Rep. Christopher Murphy [D, 2007-2012]",Democrat
+412195,FL,11,Present,"Rep. Kathy Castor [D, 2007-2012]",Democrat
+412196,FL,13,Present,"Rep. Vern Buchanan [R, 2007-2012]",Republican
+412199,GA,4,Not Voting,"Rep. Henry “Hank” Johnson Jr. [D, 2007-2018]",Democrat
+412200,HI,2,Not Voting,"Rep. Mazie Hirono [D, 2007-2012]",Democrat
+412202,IL,6,Present,"Rep. Peter Roskam [R, 2007-2018]",Republican
+412205,IN,2,Present,"Rep. Joe Donnelly [D, 2007-2012]",Democrat
+412208,IA,1,Present,"Rep. Bruce Braley [D, 2007-2014]",Democrat
+412209,IA,2,Present,"Rep. David Loebsack [D, 2007-2018]",Democrat
+412211,KY,3,Present,"Rep. John Yarmuth [D, 2007-2018]",Democrat
+412212,MD,3,Present,"Rep. John Sarbanes [D, 2007-2018]",Democrat
+412213,MI,7,Present,"Rep. Tim Walberg [R, 2011-2018]",Republican
+412214,MN,1,Present,"Rep. Timothy Walz [D, 2007-2018]",Democrat
+412215,MN,5,Present,"Rep. Keith Ellison [D, 2007-2018]",Democrat
+412216,MN,6,Present,"Rep. Michele Bachmann [R, 2007-2014]",Republican
+412217,NE,3,Present,"Rep. Adrian Smith [R, 2007-2018]",Republican
+412221,NY,11,Not Voting,"Rep. Yvette Clarke [D, 2007-2012]",Democrat
+412225,NC,11,Not Voting,"Rep. Heath Shuler [D, 2007-2012]",Democrat
+412226,OH,4,Present,"Rep. Jim Jordan [R, 2007-2018]",Republican
+412228,OH,13,Present,"Rep. Betty Sutton [D, 2007-2012]",Democrat
+412231,PA,4,Present,"Rep. Jason Altmire [D, 2007-2012]",Democrat
+412236,TN,9,Not Voting,"Rep. Steve Cohen [D, 2007-2018]",Democrat
+412239,VT,0,Present,"Rep. Peter Welch [D, 2007-2018]",Democrat
+412250,FL,9,Present,"Rep. Gus Bilirakis [R, 2007-2012]",Republican
+412252,GA,10,Present,"Rep. Paul Broun Jr. [R, 2007-2014]",Republican
+412253,CA,37,Present,"Rep. Laura Richardson [D, 2007-2012]",Democrat
+412254,MA,5,Present,"Rep. Niki Tsongas [D, 2007-2012]",Democrat
+412255,VA,1,Present,"Rep. Robert Wittman [R, 2007-2018]",Republican
+412256,OH,5,Present,"Rep. Robert Latta [R, 2007-2018]",Republican
+412258,IN,7,Present,"Rep. André Carson [D, 2008-2018]",Democrat
+412259,CA,12,Not Voting,"Rep. Jackie Speier [D, 2008-2012]",Democrat
+412261,LA,1,Present,"Rep. Steve Scalise [R, 2008-2018]",Republican
+412263,MD,4,Present,"Rep. Donna Edwards [D, 2008-2016]",Democrat
+412265,OH,7,Present,"Rep. Steve Austria [R, 2009-2012]",Republican
+412269,LA,6,Present,"Rep. Bill Cassidy [R, 2009-2014]",Republican
+412270,UT,3,Not Voting,"Rep. Jason Chaffetz [R, 2009-2017]",Republican
+412271,CO,6,Present,"Rep. Mike Coffman [R, 2009-2018]",Republican
+412272,VA,11,Present,"Rep. Gerald Connolly [D, 2009-2018]",Democrat
+412275,LA,4,Present,"Rep. John Fleming [R, 2009-2016]",Republican
+412278,KY,2,Present,"Rep. Brett Guthrie [R, 2009-2018]",Republican
+412280,MS,3,Present,"Rep. Gregg Harper [R, 2009-2018]",Republican
+412281,NM,1,Not Voting,"Rep. Martin Heinrich [D, 2009-2012]",Democrat
+412282,CT,4,Present,"Rep. James Himes [D, 2009-2018]",Democrat
+412283,CA,52,Present,"Rep. Duncan Hunter [R, 2009-2012]",Republican
+412284,KS,2,Present,"Rep. Lynn Jenkins [R, 2009-2018]",Republican
+412287,NC,8,Present,"Rep. Larry Kissell [D, 2009-2012]",Democrat
+412290,NJ,7,Present,"Rep. Leonard Lance [R, 2009-2018]",Republican
+412292,MO,9,Present,"Rep. Blaine Luetkemeyer [R, 2009-2012]",Republican
+412293,NM,3,Not Voting,"Rep. Ben Luján [D, 2009-2018]",Democrat
+412294,WY,0,Present,"Rep. Cynthia Lummis [R, 2009-2016]",Republican
+412295,CA,4,Present,"Rep. Tom McClintock [R, 2009-2018]",Republican
+412302,TX,22,Present,"Rep. Pete Olson [R, 2009-2018]",Republican
+412303,MN,3,Present,"Rep. Erik Paulsen [R, 2009-2018]",Republican
+412305,MI,9,Present,"Rep. Gary Peters [D, 2009-2012]",Democrat
+412307,ME,1,Present,"Rep. Chellie Pingree [D, 2009-2018]",Democrat
+412308,CO,2,Present,"Rep. Jared Polis [D, 2009-2018]",Democrat
+412309,FL,15,Present,"Rep. Bill Posey [R, 2009-2012]",Republican
+412310,TN,1,Present,"Rep. David “Phil” Roe [R, 2009-2018]",Republican
+412311,FL,16,Present,"Rep. Thomas Rooney [R, 2009-2012]",Republican
+412314,IL,18,Not Voting,"Rep. Aaron Schock [R, 2009-2015]",Republican
+412315,OR,5,Present,"Rep. Kurt Schrader [D, 2009-2018]",Democrat
+412317,PA,5,Present,"Rep. Glenn Thompson [R, 2009-2018]",Republican
+412319,NY,21,Not Voting,"Rep. Paul Tonko [D, 2009-2012]",Democrat
+412327,OH,11,Present,"Rep. Marcia Fudge [D, 2008-2018]",Democrat
+412331,IL,5,Present,"Rep. Mike Quigley [D, 2009-2018]",Democrat
+412379,CA,32,Present,"Rep. Judy Chu [D, 2009-2012]",Democrat
+412382,CA,10,Present,"Rep. John Garamendi [D, 2009-2012]",Democrat
+412383,NY,23,Present,"Rep. William Owens [D, 2009-2012]",Democrat
+412385,FL,19,Present,"Rep. Theodore Deutch [D, 2010-2012]",Democrat
+412386,PA,12,Present,"Rep. Mark Critz [D, 2010-2012]",Democrat
+412388,GA,9,Present,"Rep. Tom Graves [R, 2010-2012]",Republican
+412392,IN,3,Present,"Rep. Marlin Stutzman [R, 2010-2016]",Republican
+412393,NY,29,Present,"Rep. Tom Reed II [R, 2010-2012]",Republican
+412394,AL,2,Present,"Rep. Martha Roby [R, 2011-2018]",Republican
+412395,AL,5,Present,"Rep. Mo Brooks [R, 2011-2018]",Republican
+412396,AL,7,Present,"Rep. Terri Sewell [D, 2011-2018]",Democrat
+412397,AZ,1,Present,"Rep. Paul Gosar [R, 2011-2012]",Republican
+412398,AZ,3,Present,"Rep. Ben Quayle [R, 2011-2012]",Republican
+412399,AZ,5,Present,"Rep. David Schweikert [R, 2011-2012]",Republican
+412400,AR,1,Present,"Rep. Eric “Rick” Crawford [R, 2011-2018]",Republican
+412401,AR,2,Present,"Rep. Tim Griffin [R, 2011-2014]",Republican
+412402,AR,3,Present,"Rep. Steve Womack [R, 2011-2018]",Republican
+412403,CA,19,Present,"Rep. Jeff Denham [R, 2011-2012]",Republican
+412404,CA,33,Not Voting,"Rep. Karen Bass [D, 2011-2012]",Democrat
+412405,CO,3,Present,"Rep. Scott Tipton [R, 2011-2018]",Republican
+412406,CO,4,Present,"Rep. Cory Gardner [R, 2011-2014]",Republican
+412407,DE,0,Present,"Rep. John Carney [D, 2011-2016]",Democrat
+412408,FL,2,Present,"Rep. Steve Southerland [R, 2011-2014]",Republican
+412409,FL,5,Present,"Rep. Richard Nugent [R, 2011-2012]",Republican
+412410,FL,8,Present,"Rep. Daniel Webster [R, 2011-2012]",Republican
+412411,FL,12,Present,"Rep. Dennis Ross [R, 2011-2012]",Republican
+412412,FL,17,Present,"Rep. Frederica Wilson [D, 2011-2012]",Democrat
+412413,FL,22,Present,"Rep. Allen West [R, 2011-2012]",Republican
+412414,FL,24,Present,"Rep. Sandy Adams [R, 2011-2012]",Republican
+412415,FL,25,Present,"Rep. David Rivera [R, 2011-2012]",Republican
+412416,GA,7,Present,"Rep. Rob Woodall [R, 2011-2018]",Republican
+412417,GA,8,Present,"Rep. Austin Scott [R, 2011-2018]",Republican
+412418,HI,1,Present,"Rep. Colleen Hanabusa [D, 2011-2014]",Democrat
+412419,ID,1,Present,"Rep. Raúl Labrador [R, 2011-2018]",Republican
+412420,IL,10,Present,"Rep. Bob Dold [R, 2011-2012]",Republican
+412421,IL,11,Present,"Rep. Adam Kinzinger [R, 2011-2012]",Republican
+412422,IL,14,Present,"Rep. Randy Hultgren [R, 2011-2018]",Republican
+412423,IL,17,Present,"Rep. Robert “Bobby” Schilling [R, 2011-2012]",Republican
+412424,IL,8,Present,"Rep. Joe Walsh [R, 2011-2012]",Republican
+412426,IN,4,Present,"Rep. Todd Rokita [R, 2011-2018]",Republican
+412427,IN,8,Present,"Rep. Larry Bucshon [R, 2011-2018]",Republican
+412428,IN,9,Present,"Rep. Todd Young [R, 2011-2016]",Republican
+412429,KS,1,Present,"Rep. Tim Huelskamp [R, 2011-2016]",Republican
+412430,KS,3,Present,"Rep. Kevin Yoder [R, 2011-2018]",Republican
+412431,KS,4,Present,"Rep. Mike Pompeo [R, 2011-2017]",Republican
+412432,LA,2,Present,"Rep. Cedric Richmond [D, 2011-2018]",Democrat
+412433,LA,3,Present,"Rep. Jeff Landry [R, 2011-2012]",Republican
+412434,MD,1,Present,"Rep. Andy Harris [R, 2011-2018]",Republican
+412435,MA,10,Present,"Rep. William Keating [D, 2011-2012]",Democrat
+412436,MI,1,Present,"Rep. Dan Benishek [R, 2011-2016]",Republican
+412437,MI,2,Present,"Rep. Bill Huizenga [R, 2011-2018]",Republican
+412438,MI,3,Present,"Rep. Justin Amash [R, 2011-2018]",Republican
+412440,MI,13,Present,"Rep. Hansen Clarke [D, 2011-2012]",Democrat
+412441,MN,8,Present,"Rep. Chip Cravaack [R, 2011-2012]",Republican
+412442,MS,1,Present,"Rep. Alan Nunnelee [R, 2011-2015]",Republican
+412443,MS,4,Present,"Rep. Steven Palazzo [R, 2011-2018]",Republican
+412444,MO,4,Present,"Rep. Vicky Hartzler [R, 2011-2018]",Republican
+412445,MO,7,Present,"Rep. Billy Long [R, 2011-2018]",Republican
+412446,NV,3,Present,"Rep. Joseph Heck [R, 2011-2016]",Republican
+412447,NH,1,Present,"Rep. Frank Guinta [R, 2011-2012]",Republican
+412449,NJ,3,Present,"Rep. Jon Runyan [R, 2011-2014]",Republican
+412451,NY,13,Present,"Rep. Michael Grimm [R, 2011-2012]",Republican
+412452,NY,19,Present,"Rep. Nan Hayworth [R, 2011-2012]",Republican
+412453,NY,20,Present,"Rep. Christopher Gibson [R, 2011-2012]",Republican
+412454,NY,24,Present,"Rep. Richard Hanna [R, 2011-2012]",Republican
+412456,NY,25,Present,"Rep. Ann Marie Buerkle [R, 2011-2012]",Republican
+412457,NC,2,Present,"Rep. Renee Ellmers [R, 2011-2016]",Republican
+412458,ND,0,Present,"Rep. Rick Berg [R, 2011-2012]",Republican
+412460,OH,6,Present,"Rep. Bill Johnson [R, 2011-2018]",Republican
+412461,OH,15,Present,"Rep. Steve Stivers [R, 2011-2018]",Republican
+412462,OH,16,Present,"Rep. James Renacci [R, 2011-2018]",Republican
+412463,OH,18,Present,"Rep. Bob Gibbs [R, 2011-2012]",Republican
+412464,OK,5,Present,"Rep. James Lankford [R, 2011-2014]",Republican
+412465,PA,3,Present,"Rep. Mike Kelly [R, 2011-2018]",Republican
+412466,PA,7,Present,"Rep. Patrick Meehan [R, 2011-2018]",Republican
+412468,PA,10,Not Voting,"Rep. Tom Marino [R, 2011-2018]",Republican
+412469,PA,11,Present,"Rep. Lou Barletta [R, 2011-2018]",Republican
+412470,RI,1,Present,"Rep. David Cicilline [D, 2011-2018]",Democrat
+412471,SC,1,Present,"Rep. Tim Scott [R, 2011-2012]",Republican
+412472,SC,3,Present,"Rep. Jeff Duncan [R, 2011-2018]",Republican
+412473,SC,4,Present,"Rep. Trey Gowdy [R, 2011-2018]",Republican
+412474,SC,5,Present,"Rep. Mick Mulvaney [R, 2011-2017]",Republican
+412475,SD,0,Not Voting,"Rep. Kristi Noem [R, 2011-2018]",Republican
+412476,TN,3,Present,"Rep. Charles “Chuck” Fleischmann [R, 2011-2018]",Republican
+412477,TN,4,Present,"Rep. Scott DesJarlais [R, 2011-2018]",Republican
+412478,TN,6,Present,"Rep. Diane Black [R, 2011-2018]",Republican
+412479,TN,8,Present,"Rep. Stephen Fincher [R, 2011-2016]",Republican
+412480,TX,17,Present,"Rep. Bill Flores [R, 2011-2018]",Republican
+412481,TX,23,Present,"Rep. Francisco “Quico” Canseco [R, 2011-2012]",Republican
+412482,TX,27,Present,"Rep. Blake Farenthold [R, 2011-2018]",Republican
+412483,VA,2,Present,"Rep. Edward “Scott” Rigell [R, 2011-2016]",Republican
+412484,VA,5,Present,"Rep. Robert Hurt [R, 2011-2016]",Republican
+412485,VA,9,Present,"Rep. Morgan Griffith [R, 2011-2018]",Republican
+412486,WA,3,Present,"Rep. Jaime Herrera Beutler [R, 2011-2018]",Republican
+412487,WV,1,Present,"Rep. David McKinley [R, 2011-2018]",Republican
+412488,WI,7,Present,"Rep. Sean Duffy [R, 2011-2018]",Republican
+412489,WI,8,Present,"Rep. Reid Ribble [R, 2011-2016]",Republican
+412497,NY,26,Present,"Rep. Kathleen Hochul [D, 2011-2012]",Democrat
+412498,CA,36,Present,"Rep. Janice Hahn [D, 2011-2012]",Democrat
+412499,NY,9,Present,"Rep. Robert Turner [R, 2011-2012]",Republican
+412500,NV,2,Present,"Rep. Mark Amodei [R, 2011-2018]",Republican
