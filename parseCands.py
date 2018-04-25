@@ -1,7 +1,7 @@
 import sys, csv, re
 
-def getCandFirstLast(nc1):
-	strs = nc1.split()
+def getCandFirstLast(n):
+	strs = n.split()
 
 	# ns is numstrs
 	ns = len(strs)
@@ -17,30 +17,30 @@ def getCandFirstLast(nc1):
 
 	ns = len(strs)
 
-	#lw is last word in string nc1
+	#lw is last word in string n
 	lw = strs[ns-1].strip('.').lower() 
 
 	if(lw == "sr" or lw == "jr" or lw == "i" or lw == "ii" or lw == "iii" or lw == "iv" or lw == "v" or lw == "vi" or lw == "vii"):
-		# print("Stripping last word", nc1, lw)
+		# print("Stripping last word", n, lw)
 		strs.pop()
 
 	ns = len(strs)
 
-	print("Starting on ", strs)
+	# print("Starting on ", strs)
 	for i in range(0, ns):
 		if(i > ns-1):
 			break
-		print("\t", i, ":", strs)
+		# print("\t", i, ":", strs)
 
-		#lw is last word in string nc1
+		#lw is last word in string n
 		lw = strs[i].strip('.').lower() 
 
 		if(len(lw) == 1):
 			del strs[i]
 			ns = len(strs)
 			i = i-1
-		if(lw == "sr" or lw == "jr" or lw == "i" or lw == "ii" or lw == "iii" or lw == "iv" or lw == "v" or lw == "vi" or lw == "vii"):
-			print("Deleting", lw)
+		elif(lw == "sr" or lw == "jr" or lw == "i" or lw == "ii" or lw == "iii" or lw == "iv" or lw == "v" or lw == "vi" or lw == "vii"):
+			# print("Deleting", lw)
 			del strs[i]
 			ns = len(strs)
 			i = i-1
@@ -76,12 +76,13 @@ def getCandFirstLast(nc1):
 
 print("Merging", sys.argv[1], "and", sys.argv[3])
 
-c1 = open(sys.argv[1], "r")
-c2 = open(sys.argv[2], "r")
+c = open(sys.argv[1], "r")
+v = open(sys.argv[2], "r")
 out = open(sys.argv[3], "w")
 
-reader = csv.DictReader(c1, delimiter=';')
+reader = csv.DictReader(c, delimiter=';')
 # getFirstLastTwo("foo bar is cool")
 for row in reader:
-	nc1 = row['name'] 
-	print(getFirstLast(nc1))
+	n = row['name'] 
+	nn = getCandFirstLast(n)
+	print(row['year'], row['CID'], nn, row['party'], sep=",")
