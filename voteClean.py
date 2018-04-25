@@ -65,6 +65,8 @@ def getCandFirstLast(n):
 	else:
 		firstLast = ""
 		for i in range(0, ns):
+			if(i != 0):
+				firstLast += " "
 			firstLast += strs[i]
 
 	return firstLast
@@ -79,4 +81,4 @@ reader = csv.DictReader(v, delimiter=",", quotechar='"')
 for row in reader:
 	n = row['name']
 	# print(row['person'], ",", row['state'], ",", row['district'], ",", getCandFirstLast(n), ",", row['party'], sep=",")
-	print(row['person'], row['state'], row['district'], getCandFirstLast(n), row['party'], sep=",")
+	print(row['person'], row['state'], row['vote'], getCandFirstLast(n), row['party'], sep=",")
