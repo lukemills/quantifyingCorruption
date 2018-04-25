@@ -74,15 +74,13 @@ def getCandFirstLast(n):
 		
 	
 
-print("Merging", sys.argv[1], "and", sys.argv[3])
 
 c = open(sys.argv[1], "r")
-v = open(sys.argv[2], "r")
-out = open(sys.argv[3], "w")
 
 reader = csv.DictReader(c, delimiter=';')
 # getFirstLastTwo("foo bar is cool")
 for row in reader:
 	n = row['name'] 
 	nn = getCandFirstLast(n)
-	print(row['year'], row['CID'], nn, row['party'], sep=",")
+	# print(row['year'], row['CID'], nn, row['party'], sep=",")
+	print(row['CID'], nn, sep=",")

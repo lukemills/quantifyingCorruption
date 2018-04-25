@@ -81,4 +81,4 @@ reader = csv.DictReader(v, delimiter=",", quotechar='"')
 for row in reader:
 	n = row['name']
 	# print(row['person'], ",", row['state'], ",", row['district'], ",", getCandFirstLast(n), ",", row['party'], sep=",")
-	print(row['person'], row['state'], row['vote'], getCandFirstLast(n), row['party'], sep=",")
+	print(row['person'], getCandFirstLast(n), sep=",")
