@@ -79,6 +79,7 @@ c = open(sys.argv[1], "r")
 
 reader = csv.DictReader(c, delimiter=';')
 # getFirstLastTwo("foo bar is cool")
+print("CID,name")
 for row in reader:
 	n = row['name'] 
 	nn = getCandFirstLast(n)

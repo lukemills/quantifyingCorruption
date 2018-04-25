@@ -5,7 +5,8 @@ def getCandFirstLast(n):
 	ns = len(strs)
 	if(ns == 0):
 		return ""
-	if(strs[0].strip('.').lower() == "rep"):
+	lw = strs[0].strip('.').lower()  
+	if(lw == "rep" or lw == "sen"):
 		del strs[0]
 
 
@@ -75,10 +76,24 @@ def getCandFirstLast(n):
 
 
 v = open(sys.argv[1], "r")
+c = open(sys.argv[2], "r")
 
 reader = csv.DictReader(v, delimiter=",", quotechar='"')
+
+# print(nn, row['person'], CID, sep=",")
+print("name,person,CID")
 
 for row in reader:
 	n = row['name']
 	# print(row['person'], ",", row['state'], ",", row['district'], ",", getCandFirstLast(n), ",", row['party'], sep=",")
-	print(row['person'], getCandFirstLast(n), sep=",")
+	# print("personID, name") 
+	nn = getCandFirstLast(n)
+	c.seek(0)
+	r2 = csv.DictReader(c, delimiter=',')
+	CID = -1
+	for row2 in r2:
+		if(row2['name'] == nn):
+			# print("Matched", nn, "with", row2["name"])
+			CID = row2['CID']
+			print(nn, row['person'], CID, sep=",")
+			break
